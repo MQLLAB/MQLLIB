@@ -2,7 +2,9 @@
 
 MQLLIB is split into following modules:
 
-MQLLIB-Win32  
-MQLLIB-Lang  
-MQLLIB-Utils  
-MQLLIB-Collections  
+| Module              | Description                                               |
+| ------------------- | --------------------------------------------------------- |
+| MQLLIB-Win32        | Win32 API imports and functions                                         |
+| MQLLIB-Lang         | Helper functions for MQL4 language and stanbdard library. |
+| MQLLIB-Utils        | Utility functions.                                        |
+| MQLLIB-Collections  | Generic collections library.                              |
